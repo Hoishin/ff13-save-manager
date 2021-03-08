@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Hoishin/xiii-save-manager/compare/v1.0.1...v1.1.0) (2021-03-08)
+
+
+### Features
+
+* add steam cloud location support ([#5](https://github.com/Hoishin/xiii-save-manager/issues/5)) ([4b8a4aa](https://github.com/Hoishin/xiii-save-manager/commit/4b8a4aa0ccef5af61ffc23c25d6274f3b4d30e4e))
+
 ## [1.0.1](https://github.com/Hoishin/xiii-save-manager/compare/v1.0.0...v1.0.1) (2021-01-29)
 
 
